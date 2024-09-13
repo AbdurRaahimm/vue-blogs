@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "Hello Again updated ",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis optio aliquid unde architecto vitae suscipit quo impedit, dolorem quisquam nisi earum consequuntur deleniti nostrum aperiam iusto minima. Blanditiis, deleniti illum?",
+      "category": "programming",
+      "date": "2021-06-02",
+      "author": "Jane kow"
+    },
+    {
+      "id": "3",
+      "title": "Hello World",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis optio aliquid unde architecto vitae suscipit quo impedit, dolorem quisquam nisi earum consequuntur deleniti nostrum aperiam iusto minima. Blanditiis, deleniti illum?",
+      "category": "technology",
+      "date": "2021-06-01",
+      "author": "John Doe"
+    },
+    {
+      "id": "4",
+      "title": "Hello Again",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis optio aliquid unde architecto vitae suscipit quo impedit, dolorem quisquam nisi earum consequuntur deleniti nostrum aperiam iusto minima. Blanditiis, deleniti illum?",
+      "category": "programming",
+      "date": "2021-06-02",
+      "author": "Jane Smith"
+    },
+    {
+      "id": "210",
+      "title": "Hello 2 updated ",
+      "category": "vuejs",
+      "content": "vue blogs with vite using tailwind css and CRUD Operations, if you like please like the post and subscribe youtube",
+      "author": "Sayed Rahim",
+      "date": "2024-09-14"
+    }
+  ]
+}
