@@ -9,7 +9,7 @@ import UpdatePost from "../views/UpdatePost.vue";
 const routes = [
     {
         path: "/",
-        component: () => Home
+        component: Home
     },
     {
         path: "/blogs",
@@ -25,7 +25,7 @@ const routes = [
     },
     {
         path: "/:catchAll(.*)",
-        component: () => NotFound
+        component: NotFound
     }
 ];
 

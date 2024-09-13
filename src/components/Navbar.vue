@@ -1,5 +1,5 @@
 <script setup>
-// import { RouterLink } from 'vue-router'
+import { RouterLink } from 'vue-router'
 import vueLogo from '../assets/vue.svg'
 import {menus} from '../data/menus'
 
